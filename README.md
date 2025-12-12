@@ -40,9 +40,13 @@ Java • Spring Boot • DevOps • Cloud • Unity • PostgreSQL • Docker �
 ---
 
 ## Dev Daily Card
-<a href="https://app.daily.dev/s_b_yrrah">
-  <img src="https://api.daily.dev/devcards/v2/dlXlx0D2zKKCldhcyxRCG.png?type=wide&r=8bt" width="652" alt="Siddharth Balakrishnan's Dev Card"/>
-</a>
+<p align="center">
+  <a href="https://app.daily.dev/s_b_yrrah">
+    <img src="https://api.daily.dev/devcards/v2/dlXlx0D2zKKCldhcyxRCG.png?type=wide&r=8bt" 
+         width="652" 
+         alt="Siddharth Balakrishnan's Dev Card"/>
+  </a>
+</p>
 
 ---
 
