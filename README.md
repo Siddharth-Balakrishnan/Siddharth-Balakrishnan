@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZ2aG1kZ2FqbGoyeWs4a3d4bHhocnh4OXI2MHU5YTI1bHEyY2M2cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6Mbfal3R0xkD2R0g/giphy.gif" width="420" />
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="420" />
 </p>
 
 ---
@@ -22,10 +22,8 @@ I enjoy turning ideas into real, working systems. Whether it’s backend archite
 Hackathons, product experiments, and side quests have taught me one thing:  
 **Engineering is creativity, structure, and controlled chaos — ideally in that order.**
 
-If you like people who build fast, learn fast, and break things only to rebuild them better… that’s basically my default mode.
-
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjgwbzNlOHJqMXh5Z2trNzVjaWw4eGxnbm1qZmk2MjVjNGdtbG9qYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gf685x5Z2hoYk/giphy.gif" width="380" />
+  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="380" />
 </p>
 
 ---
@@ -50,8 +48,6 @@ Java • Spring Boot • DevOps • Cloud • Unity • PostgreSQL • Docker �
 ---
 
 ## Dev Daily Card
-Because learning never stops — and neither do I.
-
 <a href="https://app.daily.dev/s_b_yrrah">
   <img src="https://api.daily.dev/devcards/v2/dlXlx0D2zKKCldhcyxRCG.png?type=wide&r=8bt" width="652" alt="Siddharth Balakrishnan's Dev Card"/>
 </a>
@@ -61,43 +57,38 @@ Because learning never stops — and neither do I.
 ## Featured Work
 
 ### DeshRan – AI-Powered Sports Talent Assessment  
-AI-driven athlete scoring using mobile video + ML  
+https://deshran.tech  
 Role: Project Lead • System Design • DevOps  
-https://deshran.tech
 
 ### Qivora – AI-First Financial Assistant  
-Multi-agent reasoning, ZKP flows, Spring Boot backend  
+https://qivora.fit  
 Role: Backend & Systems Engineer  
-https://qivora.fit
 
 ### Aroviq – Retail EPDS Automation Platform  
-Spring Boot, Postgres, CI/CD, AI-driven workflows  
+https://aroviq.shop  
 Role: Backend, System Architect & AI Lead  
-https://aroviq.shop
 
 ### SignLearn – Realtime Sign Language Detection  
-Flutter, Spring Boot, ONNX Runtime  
+https://github.com/Siddharth-Balakrishnan/sign_learn_prototype_git  
 Role: Fullstack & AI Integration  
-https://github.com/Siddharth-Balakrishnan/sign_learn_prototype_git
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGV1Z3V4NTJtNXAybW53bGZ6MXA0bjhlY2t2NWwwOXUwaTN0OXhiNyZlcD12MV9naWZzX3NlYXJjaCZjdT1n/26ufdipQqU2lhNA4g/giphy.gif" width="380" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="380" />
 </p>
 
 ---
 
 ## Tools I Use Daily
-- Java, Spring Boot, Postgres  
-- Docker, GitHub Actions, GitLab CI  
-- Linux + Windows servers  
-- Occasional React / Flutter touchups  
-- Unity (when backend work becomes too peaceful)
+Java, Spring Boot, Postgres  
+Docker, GitHub Actions, GitLab CI  
+Linux + Windows servers  
+React / Flutter occasionally  
+Unity when backend work becomes too peaceful  
 
 ---
 
 ## Portfolio  
-For the full experience (CLI mode, animations, glass UI, cyber aesthetics):  
-**https://siddharthb.dev**
+https://siddharthb.dev
 
 ---
 
