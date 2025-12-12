@@ -5,10 +5,6 @@
   <a href="https://siddharthb.dev" target="_blank"><b>🌐 Visit My Portfolio — siddharthb.dev</b></a>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="420" />
-</p>
-
 ---
 
 ## About Me
@@ -21,10 +17,6 @@ I enjoy turning ideas into real, working systems. Whether it’s backend archite
 
 Hackathons, product experiments, and side quests have taught me one thing:  
 **Engineering is creativity, structure, and controlled chaos — ideally in that order.**
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="380" />
-</p>
 
 ---
 
