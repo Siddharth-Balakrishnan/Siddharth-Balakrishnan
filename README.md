@@ -8,10 +8,10 @@
 ---
 
 ## About Me
-I build backend systems that aim to be reliable, predictable, and just a little more organized than my desk.  
-Most days involve **Java, Spring Boot, Docker, CI/CD**, and the occasional Unity prototype when I need a reminder that physics is not negotiable.  
+Building backend systems that stay reliable, predictable, and slightly more organized than the workspace they originate from has become a personal specialty.  
+Most days revolve around **Java, Spring Boot, Docker, CI/CD**, with the occasional Unity prototype thrown in as a reminder that physics has strict opinions.  
 
-I enjoy designing clean architectures, improving deployment pipelines, and creating systems that run smoothly enough to make it look intentional.
+Clean architectures, faster deployment pipelines, and systems that run smoothly enough to look intentional — that’s the goal on a good day.
 
 ---
 
