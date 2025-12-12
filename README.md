@@ -8,10 +8,10 @@
 ---
 
 ## About Me
-I build backend systems, automate infrastructure, and ship things that stay up even when everything else doesn’t.  
-Most days are **Java → Spring Boot → Docker → CI/CD**, with the occasional Unity experiment when physics needs humbling.
+I build backend systems that behave so well you'd think they fear me — and honestly, they should.  
+Most days are **Java → Spring Boot → Docker → CI/CD**, plus a bonus Unity session whenever I feel like bullying gravity.  
 
-I like clean architectures, predictable deployments, fast feedback loops, and systems that behave… or at least pretend to.
+I enjoy clean architectures, fast deployments, and watching pipelines pass on the first try because it makes me feel powerful — briefly.
 
 ---
 
