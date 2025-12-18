@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Siddharth</h1>
-<h3 align="center">If it can be built, I’ll probably try building it before sleeping.</h3>
+<h3 align="center">If it can be built, I’ll probably try building it before sleeping.</h3> 
 
 <p align="center">
   <a href="https://siddharthb.dev" target="_blank"><b>Visit My Portfolio → siddharthb.dev</b></a>
